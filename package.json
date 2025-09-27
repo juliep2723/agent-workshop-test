@@ -1,0 +1,7 @@
+{
+  "name": "langchain-agent-workshop",
+  "version": "1.0.0",
+  "description": "LangChain Open SWE Agent Implementation",
+  "main": "index.js",
+  "type": "module"
+}
